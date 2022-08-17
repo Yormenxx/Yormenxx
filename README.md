@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I'm JuanMa</h1>
-<h3 align="center">I like to code</h3>
+<h1 align="center">👋 Hi coders, I'm JuanMa</h1>
+<h3 align="center">I like programming, I am passionate about web development and scripting for fun</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

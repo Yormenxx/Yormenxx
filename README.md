@@ -18,6 +18,8 @@
 Atque quae non accusamus in asperiores voluptates similique laboriosam illo quibusdam. Minus provident magni, doloribus voluptatum ducimus a nisi quas saepe! Nam natus omnis, necessitatibus architecto et facere iure tenetur.
 Ex ipsum molestias alias, minima ab qui architecto! Adipisci quod doloremque, iure culpa, eaque explicabo accusamus autem totam, quos eligendi veritatis reprehenderit vitae sed modi rem similique? At, ducimus dignissimos!</p>
 
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

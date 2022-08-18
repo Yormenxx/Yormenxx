@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi coders, I'm JuanMa</h1>
 <h3 align="center">I like programming, I am passionate about web development and scripting for fun.</h3>
-<img style="margin-left: 30px" width=200px  src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="">
+
+<div align="center"><img style="margin-left:1000" width=200px  src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="github"></div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

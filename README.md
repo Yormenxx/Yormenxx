@@ -3,21 +3,12 @@
 <div align="center"><h1 >👋 Hi coders, I'm Juan Manuel</h1>
 <h3 >I like programming, I am passionate about web development and scripting for fun.</h3></div>
 
-
+<br>
  
-<div align="right" width="20
-<img align="right" src="https://cdn-icons.flaticon.com/png/512/3271/premium/3271001.png?token=exp=1660782784~hmac=449f99651d1c2815077d1b276f193dba" alt="" width="250
+<div align="right">
+<img align="right" src="https://cdn-icons.flaticon.com/png/512/3271/premium/3271001.png?token=exp=1660782784~hmac=449f99651d1c2815077d1b276f193dba" alt="" width="200">
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

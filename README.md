@@ -1,5 +1,5 @@
 
-<div align="center"><img width=800px height="300"  src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_7.gif" alt="banner"></div>
+<div align="center"><img width=800px height="200"  src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_7.gif" alt="banner"></div>
 
 
 

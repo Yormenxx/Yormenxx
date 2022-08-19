@@ -1,3 +1,9 @@
+
+<div align="center"><img width=1000px height="300"  src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_7.gif" alt="banner"></div>
+
+
+
+
 <div align="center"><img style="margin-left:1000" width=100px  src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="github"></div>
 
 <div align="center"><h1 >👋 Hi coders, I'm Juan Manuel</h1>

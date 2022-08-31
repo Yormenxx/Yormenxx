@@ -27,7 +27,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://github.com/Yormenxx" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="" height="35" width="40"></a>
-<a href="https://www.linkedin.com/in/juan-manuel-ortiz-ospino-2b67a61a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan manuel ortiz ospino" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-manuel-ortiz-47b93424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan manuel ortiz ospino" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

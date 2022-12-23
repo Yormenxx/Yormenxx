@@ -18,8 +18,6 @@
 
 <p align="left" width="400">Mi nombre es Juan Manuel, me gusta mucho el desarrollo web y el scripting por diversión, tengo conocimientos en Js y Python, este último especialmente para realizar tareas que necesito. Actualmente realizo pequeños proyectos que sé que a los visitantes les agradará.</p>
 
-<br>
-<br>
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">

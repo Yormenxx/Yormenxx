@@ -52,7 +52,14 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yormenxx&theme=buefy-dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=3DDD22)](https://git.io/streak-stats)
 
+<br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Yormenxx&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 
  </div>
 

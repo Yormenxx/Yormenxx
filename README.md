@@ -1,8 +1,4 @@
-
-<div align="center"><img width=800px height="200"  src="https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2020/06/banner_7.gif" alt="banner"></div>
-
-
-
+[![Component-3-2.png](https://i.postimg.cc/m2vrDfN6/Component-3-2.png)](https://postimg.cc/hf0nyYY9)
 
 <div align="center"><img style="margin-left:1000" width=100px  src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="github"></div>
 

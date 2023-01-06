@@ -32,7 +32,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yormenxx&theme=buefy-dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=3DDD22)](https://git.io/streak-stats)
 
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31p4y7ejhlqhpt7pnkz23j5zvn6a&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/Yormenxx)
  </div>
 
 

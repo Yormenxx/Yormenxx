@@ -10,7 +10,12 @@
 </div>
 
 
-<p align="left" width="400">Mi nombre es Juan Manuel, me gusta mucho el desarrollo web y el scripting por diversión, tengo conocimientos en Js y Python, este último especialmente para realizar tareas que necesito. Actualmente realizo pequeños proyectos que sé que a los visitantes les agradará.</p>
+<p align="left" width="400">Mi nombre es Juan Manuel, me gusta mucho el desarrollo web (aunque mi enfoque es el desarrollo Back-end) y el scripting por diversión, tengo conocimientos en Js y Python, este último especialmente para realizar tareas que necesito. ultimamente he estado aprendiendo Java para entablar mejores practicas y principios de desarrollo que me permitan integrar y entregar mejores soluciones informaticas.
+<br/>
+En mi Github encontrarás diversos proyectos que abarcan desde Html y Astro, Css a Tailwind, y varios lenguajes de programación como Javascript, Java y Python.
+ <br/>
+Tambien he ahondado en ciertos conceptos que van más alla de la programación cómo lo es la ciencia de datos, en este tema he realizado un curso de análisis de datos impartido por google. el cuál me permitió lograr identificar y descubrir lo increible y extenso que es el mundo de los datos y la información.  
+</p>
 <br/>  
 <div align="center">
 
@@ -21,7 +26,7 @@
 
 
 
-### FRONT-END  
+## FRONT-END  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -35,7 +40,7 @@
 
 
 
-### BACK-END  
+## BACK-END  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -51,7 +56,7 @@
 
 
 
-### HERRAMIENTAS  
+## HERRAMIENTAS  
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -63,11 +68,7 @@
 
 <br/>  
 
-
-
-<br/>  
-
-# Enlaces de contacto  
+# ENLACES DE CONTACTO 
 <div align="center">
 <a href="https://github.com/https://github.com/Yormenxx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -91,7 +92,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yormenxx&theme=black-ice&locale=es&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=3DDD22)](https://git.io/streak-stats)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yormenxx&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 

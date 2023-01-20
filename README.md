@@ -16,7 +16,7 @@
 
 
 
-## My Skill Set  
+# LENGUAJES Y HERRAMIENTAS DE PROGRAMACIÓN
 <table><tr><td valign="top" width="33%">
 
 

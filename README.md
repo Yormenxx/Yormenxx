@@ -1,11 +1,10 @@
 [![Group-4.png](https://i.postimg.cc/hjQdwbSX/Group-4.png)](https://postimg.cc/HcHn8M8m)
 
-<div align="center"><img style="margin-left:1000" width=100px  src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="github"></div>
+<br/>
 
-<div align="center"><h1 >👋 Hi coders, I'm Juan Manuel</h1>
-<h3 >I like programming, I am passionate about web development and scripting for fun.</h3></div>
+[![Typing SVG align="center"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=5130&pause=1000&center=true&vCenter=true&width=1000&height=86&lines=%C2%A1HOLA+CODERS%2C+SOY+JUAN+MANUEL+Y+BIENVENIDOS+A+MI+GITHUB!)](https://git.io/typing-svg)
 
-<br>
+<br/>
  
 <div align="right">
 <img align="right" src="https://cdn-icons.flaticon.com/png/512/3271/premium/3271001.png?token=exp=1660782784~hmac=449f99651d1c2815077d1b276f193dba" alt="" width="200">

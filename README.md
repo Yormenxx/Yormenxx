@@ -40,10 +40,6 @@ Tambien he ahondado en ciertos conceptos que van más alla de la programación c
 </a>  
 </div>  
 <br>
-<div align="center">
- 
-![Yormenxx's Stats](https://github-readme-stats.vercel.app/api?username=Yormenxx&theme=react&show_icons=true&hide_border=false&count_private=true)
- 
  
 <div align="center">
  

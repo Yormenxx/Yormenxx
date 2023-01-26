@@ -18,7 +18,7 @@ Tambien he ahondado en ciertos conceptos que van más alla de la programación c
  
 ### LENGUAJES Y HERRAMIENTAS DE PROGRAMACIÓN
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,astro,css,sass,tailwind,js,ts,express,figma,git,java,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,astro,css,sass,tailwind,js,ts,nodejs,express,java,mysql,mongodb,figma,git,)](https://skillicons.dev)
  
 ### ENLACES DE CONTACTO
  
@@ -39,23 +39,18 @@ Tambien he ahondado en ciertos conceptos que van más alla de la programación c
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yormenxx&theme=black-ice&locale=es&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=3DDD22)](https://git.io/streak-stats)
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31p4y7ejhlqhpt7pnkz23j5zvn6a&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
+<br>
+<div align="center">
+ 
+![Yormenxx's Stats](https://github-readme-stats.vercel.app/api?username=Yormenxx&theme=react&show_icons=true&hide_border=false&count_private=true)
+ 
+ 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Yormenxx&&style=flat-square" align="center" />
 </div>  
-  
+   
 
-<br/>  
-
- </div>
+</div>
 
 
 

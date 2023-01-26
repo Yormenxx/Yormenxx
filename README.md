@@ -14,7 +14,7 @@
 En mi Github encontrarás diversos proyectos que abarcan desde Html y Astro, Css a Tailwind, y varios lenguajes de programación como Javascript, Java y Python.
 Tambien he ahondado en ciertos conceptos que van más alla de la programación cómo lo es la ciencia de datos, en este tema he realizado un curso de análisis de datos impartido por google. el cuál me permitió lograr identificar y descubrir lo increible y extenso que es el mundo de los datos y la información.  
 </p>
-<div align="left">
+<div align="center">
  
 ### LENGUAJES Y HERRAMIENTAS DE PROGRAMACIÓN
  
@@ -22,7 +22,7 @@ Tambien he ahondado en ciertos conceptos que van más alla de la programación c
  
 ### ENLACES DE CONTACTO
  
-<div align="left">
+<div align="center">
 <a href="https://github.com/https://github.com/Yormenxx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>

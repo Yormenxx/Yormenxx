@@ -46,7 +46,9 @@ Tambien he ahondado en ciertos conceptos que van más alla de la programación c
  
  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Yormenxx&&style=flat-square" align="center" />
+ 
+![Yormenxx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yormenxx&theme=react&hide_border=false)
+ 
 </div>  
    
 

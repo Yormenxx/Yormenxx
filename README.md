@@ -15,11 +15,14 @@ En mi Github encontrarás diversos proyectos que abarcan desde Html y Astro, Css
 Tambien he ahondado en ciertos conceptos que van más alla de la programación cómo lo es la ciencia de datos, en este tema he realizado un curso de análisis de datos impartido por google. el cuál me permitió lograr identificar y descubrir lo increible y extenso que es el mundo de los datos y la información.  
 </p>
 <div align="left">
+ 
 ### LENGUAJES Y HERRAMIENTAS DE PROGRAMACIÓN
+ 
 [![My Skills](https://skillicons.dev/icons?i=js,html,astro,css,sass,tailwind,js,ts,express,figma,git,java,mysql,nodejs)](https://skillicons.dev)
  
-# ENLACES DE CONTACTO 
-<div align="center">
+### ENLACES DE CONTACTO
+ 
+<div align="left">
 <a href="https://github.com/https://github.com/Yormenxx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -36,16 +39,10 @@ Tambien he ahondado en ciertos conceptos que van más alla de la programación c
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yormenxx&theme=black-ice&locale=es&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=3DDD22)](https://git.io/streak-stats)
 
-
-<br/>  
-
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31p4y7ejhlqhpt7pnkz23j5zvn6a&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 

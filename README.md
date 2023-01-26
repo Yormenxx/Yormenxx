@@ -1,6 +1,4 @@
-[![Group-4.png](https://i.postimg.cc/hjQdwbSX/Group-4.png)](https://postimg.cc/HcHn8M8m)
-
-
+[![Group-7.png](https://i.postimg.cc/T3h3shWt/Group-7.png)](https://postimg.cc/QFGD98m7)
 
 [![Typing SVG align="center"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=5130&pause=1000&center=true&vCenter=true&width=1000&height=86&lines=%C2%A1HOLA+CODERS%2C+SOY+JUAN+MANUEL+Y+BIENVENIDOS+A+MI+GITHUB!)](https://git.io/typing-svg)
 

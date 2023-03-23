@@ -10,7 +10,7 @@
 <p align="left" width="400"> Mi nombre es Juan Manuel, me gusta mucho el desarrollo web(aunque mi enfoque es el desarrollo Back-end) y el scripting por diversión, tengo conocimientos en Js y Python,este último especialmente para realizar tareas que necesito. ultimamente he estado aprendiendo Java para entablar mejores practicas y principios de desarrollo que me permitan integrar y entregar mejores soluciones informaticas.
 <br/>
 En mi Github encontrarás diversos proyectos que abarcan desde Html y Astro, Css a Tailwind, y varios lenguajes de programación como Javascript,Java y Python.
-Tambien he ahondado en ciertos conceptos que van más alla de la programación cómo lo es la ciencia de datos,  en este tema he realizado un curso de análisis de datos impartido por google. el cuál me permitió lograr identificar y descubrir lo increible y extenso que es el mundo de los datos y la información.  
+Tambien he ahondado en ciertos conceptos que van más alla de la programación cómo lo es la ciencia de datos, en este tema he realizado un curso de análisis de datos impartido por google. el cuál me permitió lograr identificar y descubrir lo increible y extenso que es el mundo de los datos y la información.  
 </p>
 <div align="center">
  

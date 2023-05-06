@@ -14,6 +14,10 @@ Tambien he ahondado en ciertos conceptos que van más alla de la programación c
 </p>
 <div align="center">
  
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yormenxx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ 
 ### LENGUAJES Y HERRAMIENTAS DE PROGRAMACIÓN
  
 [![My Skills](https://skillicons.dev/icons?i=html,astro,css,sass,tailwind,js,ts,nodejs,express,java,mysql,mongodb,figma,git,)](https://skillicons.dev)

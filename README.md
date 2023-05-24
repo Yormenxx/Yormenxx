@@ -15,7 +15,7 @@ Tambien he ahondado en ciertos conceptos que van más alla de la programación c
 <div align="center">
  
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yormenxx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yormenxx)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
 ### LENGUAJES Y HERRAMIENTAS DE PROGRAMACIÓN

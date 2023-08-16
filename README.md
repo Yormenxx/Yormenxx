@@ -8,7 +8,7 @@
 </div>
 
 <p align="left" width="400"> 
-My name is Juan Manuel, I like too much web developing (even if, my main focus is the development  Back-end )and the scripting for diversion, i have knowledge in technologies like Js, TypeScript, NodeJs , ExpressJs. Recently i have been learning about Java language for increase and initiate the best practices and principles that allow me to improve and deliver better computer solutions.
+My name is Juan Manuel,I like too much web developing (even if, my main focus is the development  Back-end )and the scripting for diversion, i have knowledge in technologies like Js, TypeScript, NodeJs , ExpressJs. Recently i have been learning about Java language for increase and initiate the best practices and principles that allow me to improve and deliver better computer solutions.
 <br/>
 In my github you can find a lot of projects made in multiple technologies like: Astro, TailwindCss, Sccs, Sass, Firebase, Ejs.Because  in the world of web
 you need to learn about different thoughts and topics for understand how works an application.

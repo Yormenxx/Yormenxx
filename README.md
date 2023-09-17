@@ -1,7 +1,6 @@
 [![Group-7.png](https://i.postimg.cc/T3h3shWt/Group-7.png)](https://postimg.cc/QFGD98m7)
 
-[![Typing SVG align="center"](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=5130&pause=1000&center=true&vCenter=true&width=1000&height=86&lines=%C2%A1HOLA+CODERS%2C+SOY+JUAN+MANUEL+Y+BIENVENIDOS+A+MI+GITHUB!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1000&width=435&lines=Hi+coders%2C+My+name+is+Juan+and+welcome+to+my+Github!)](https://git.io/typing-svg)
  
 <div align="right">
 <img align="right" src="https://cdn-icons.flaticon.com/png/512/3271/premium/3271001.png?token=exp=1660782784~hmac=449f99651d1c2815077d1b276f193dba" alt="" width="200">

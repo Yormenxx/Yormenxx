@@ -12,13 +12,13 @@
 </div>
 
 <p align="left" width="400"> 
-My name is Juan Manuel,I like too much web developing (even if, my main focus is the development  Back-end )and the scripting for diversion, i have knowledge in technologies like Js, TypeScript, NodeJs , ExpressJs. Recently i have been learning about Java language for increase and initiate the best practices and principles that allow me to improve and deliver better computer solutions.
+My name is Juan Manuel,I like very much web developing (even if, my main focus is the Back-end development )and the scripting for fun,I have knowledge in technologies like Js, TypeScript, NodeJs , ExpressJs. Recently I have been learning about Java language for increase and initiate the best practices and principles that allow me to improve and deliver better computer solutions.
 <br/>
 In my github you can find a lot of projects made in multiple technologies like: Astro, TailwindCss, Sccs, Sass, Firebase, Ejs.Because  in the world of web
 you need to learn about different thoughts and topics for understand how works an application.
 <br/>
-Also i have looked into in the Data Analisis, I studied a course created by Google about data science and data analisis wich allowed me indetifie and discover
-the incredible and extensive is data´s world.
+Also I have looked into in the Data Analysis, I studied a course created by Google about data science and data analysis wich allowed me indetifie and discover
+the incredible and extensive is the data world.
 </p>
 <div align="center">
  

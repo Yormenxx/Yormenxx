@@ -26,11 +26,11 @@ the incredible and extensive is the data world.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yormenxx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
-### LENGUAJES Y HERRAMIENTAS DE PROGRAMACIÓN
+### LANGUAGES AND TOOLS
  
-[![My Skills](https://skillicons.dev/icons?i=html,astro,css,sass,tailwind,js,ts,nodejs,express,java,mysql,mongodb,figma,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,astro,css,sass,tailwind,js,ts,nodejs,express,java,mysql,mongodb,figma,git,bootstrap,discord,eclipse,firebase,flask,idea,md,postman,py,vscode)](https://skillicons.dev)
  
-### ENLACES DE CONTACTO
+### CONTACT LINKS
  
 <div align="center">
 <a href="https://github.com/https://github.com/Yormenxx" target="_blank">

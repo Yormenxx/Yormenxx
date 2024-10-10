@@ -31,8 +31,13 @@ the incredible and extensive is the data world.
  
  
 ### LANGUAGES AND TOOLS
- 
-[![My Skills](https://skillicons.dev/icons?i=html,astro,css,sass,tailwind,js,ts,nodejs,express,java,mysql,mongodb,figma,git,bootstrap,discord,eclipse,firebase,flask,idea,md,postman,py,vscode)](https://skillicons.dev)
+
+ <p align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,laravel,php,js,jquery,ts,nodejs,express,mysql,mongodb,figma,git,bootstrap,discord,firebase,flask,idea,md,postman,py,vscode,nestjs,npm,react)](https://skillicons.dev)
+  
+ </p>
+
  
 ### CONTACT LINKS
  

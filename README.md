@@ -34,7 +34,7 @@ the incredible and extensive is the data world.
 
  <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,laravel,php,js,jquery,ts,nodejs,express,mysql,mongodb,figma,git,bootstrap,discord,firebase,flask,idea,md,postman,py,vscode,nestjs,npm,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,php,jquery,ts,express,mysql,mongodb,git,bootstrap,discord,idea,md,postman,py,vscode,nestjs,npm,react)](https://skillicons.dev)
   
  </p>
 

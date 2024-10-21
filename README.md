@@ -21,8 +21,7 @@ My name is Juan Manuel,I like very much web developing (even if, my main focus i
 In my github you can find a lot of projects made in multiple technologies like: Astro, TailwindCss, Sccs, Sass, Firebase, Ejs.Because  in the world of web
 you need to learn about different thoughts and topics for understand how works an application.
 <br/>
-Also I have looked into in the Data Analysis, I studied a course created by Google about data science and data analysis wich allowed me indetifie and discover
-the incredible and extensive is the data world.
+
 </p>
 <div align="center">
  

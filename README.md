@@ -33,7 +33,7 @@ you need to learn about different thoughts and topics for understand how works a
 
  <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,php,jquery,ts,express,mysql,mongodb,git,bootstrap,idea,md,py,nestjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,nest,express,laravel,mysql,mongodb,git)](https://skillicons.dev)
   
  </p>
 

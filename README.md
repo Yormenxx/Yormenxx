@@ -16,7 +16,7 @@
 </div>
 
 <p align="left" width="400"> 
-My name is Juan Manuel,I like very much web developing
+My name is Juan Manuel
 <br/>
 
 </p>

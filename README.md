@@ -16,7 +16,7 @@
 </div>
 
 <p align="left" width="400"> 
-My name is Juan Manuel
+My name 
 <br/>
 
 </p>

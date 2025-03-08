@@ -16,7 +16,7 @@
 </div>
 
 <p align="left" width="400"> 
-My name under construction still waiting
+My
 <br/>
 
 </p>

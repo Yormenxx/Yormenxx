@@ -30,7 +30,7 @@ My
 
  <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=next,nest,express,laravel,mysql,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,nest,express,java,mysql,mongodb,git)](https://skillicons.dev)
   
  </p>
 

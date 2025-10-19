@@ -15,11 +15,6 @@
 <img align="right" src="https://cdn-icons.flaticon.com/png/512/3271/premium/3271001.png?token=exp=1660782784~hmac=449f99651d1c2815077d1b276f193dba" alt="" width="200">
 </div>
 
-<p align="left" width="400"> 
-My
-<br/>
-
-</p>
 <div align="center">
  
  

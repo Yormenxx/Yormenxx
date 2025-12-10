@@ -5,8 +5,7 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&center=true&vCenter=true&width=600&lines=hi+coders%2C+My+name+is+Juan+and+welcome+to+my+Github!)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=02F792&multiline=true&width=700&lines=Hi+stranger%2C+welcome+to+my+Github.)](https://git.io/typing-svg)
 </div>
 
  

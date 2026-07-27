@@ -23,7 +23,7 @@
 
  <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=next,nest,express,java,mysql,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=devto,bash,debian,docker,git,postman,react,express,nextjs,nginx,postgres,mongodb,supabase,pnpm)](https://skillicons.dev)
   
  </p>
 

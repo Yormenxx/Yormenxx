@@ -51,8 +51,8 @@
  
 <div align="left">
  
-- [Reader md](https://mojodeco-readermd.vercel.app) 📚 A high-performance Markdown live previewer with PDF export and quick-copy features.
-- [Special-chars](https://github.com/Yormenxx/SPECIAL-CHAR) A tool that allows you to copy, paste, and save special characters when you don't know the OS keyboard shortcuts.
+- [Reader md](https://mojodeco-readermd.vercel.app) A high-performance Markdown live previewer with PDF export and quick-copy features.
+- [Special-chars](https://special-char.netlify.app/) A tool that allows you to copy, paste, and save special characters when you don't know the OS keyboard shortcuts.
 - [Bookmarks extension](https://github.com/Yormenxx/bookmarks-extension) An extension to help you manage your bookmarks.
  
 </div>  
